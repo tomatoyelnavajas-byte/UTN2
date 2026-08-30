@@ -77,7 +77,7 @@ h1 {
 }
 
 footer {
-  background-color: #000;
+  background-color: #ffffff;
   color: #d4d4d4;
   display: flex;
   flex-wrap: wrap;
@@ -90,11 +90,19 @@ footer {
   padding: 5px;
 }
 
+#colegio a{
+  color: #eee;
+}
+
 #creadores{
   width: 33%;
   background-color: red;
   color: #eee;
   padding: 5px;
+}
+
+#creadores a{
+  color: #eee;
 }
 
 #contactanos{
