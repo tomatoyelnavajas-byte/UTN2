@@ -40,6 +40,10 @@ header {
   width: 125px;
 }
 
+#ascacibar img{
+  width: 125px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
