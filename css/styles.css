@@ -40,8 +40,20 @@ header {
   width: 125px;
 }
 
+#ascacibar img{
+  width: 125px;
+}
+
+#almada img{
+  width: 125px;
+}
+
 #gabigol img{
   width: 50px;
+}
+
+#fernandez img{
+  width: 125px;
 }
 
 nav {
