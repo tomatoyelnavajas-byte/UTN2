@@ -29,7 +29,7 @@ header {
 }
 
 #transferplay img{
-  width: 185px;
+  width: 200px;
 }
 
 #rodri img{
@@ -41,19 +41,23 @@ header {
 }
 
 #ascacibar img{
-  width: 125px;
+  width: 225px;
+  height: 170px;
 }
 
 #almada img{
-  width: 125px;
+  width: 150px;
+  height: 170px;
 }
 
 #gabigol img{
-  width: 50px;
+  width: 180px;
+  height: 180px;
 }
 
 #fernandez img{
-  width: 125px;
+  width: 180px;
+  height: 170px;
 }
 
 nav {
