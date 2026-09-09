@@ -77,6 +77,22 @@ header {
   width: 140px;
 }
 
+#marmoush img{
+  width: 140px;
+}
+
+#garnacho img{
+  width: 140px;
+}
+
+#mastantuono img{
+  width: 140px;
+}
+
+#araujo img{
+  width: 140px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
