@@ -61,6 +61,22 @@ header {
   height: 170px;
 }
 
+#martinelli img{
+  width: 180px;
+}
+
+#leao img{
+  width: 100px;
+}
+
+#salah img{
+  width: 180px;
+}
+
+#watkins img{
+  width: 180px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
