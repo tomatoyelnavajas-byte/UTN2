@@ -94,6 +94,22 @@ header {
   width: 140px;
 }
 
+#mourinho img{
+  width: 140px;
+}
+
+#xavi img{
+  width: 140px;
+}
+
+#xabi img{
+  width: 140px;
+}
+
+#arbeloa img{
+  width: 140px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
