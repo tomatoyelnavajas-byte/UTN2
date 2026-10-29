@@ -474,3 +474,78 @@ footer {
 #contactanos img{
   width: 100px;
 }
+
+/* --- ESTILOS GENERALES Y RESET --- */
+body {
+  background-color: #0b0f0e; /* Fondo oscuro elegante */
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- MENÚ DE NAVEGACIÓN MODERNO --- */
+.navbar {
+  background-color: #111111;
+  padding: 0 20px;
+  border-bottom: 2px solid #e50914;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.nav-links a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 12px 18px;
+  display: block;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  border-radius: 4px;
+}
+
+.nav-links a:hover, .nav-links a.activo {
+  background-color: #e50914;
+  color: #ffffff;
+}
+
+/* Desplegable de Ligas */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #1a1a1a;
+  min-width: 180px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.6);
+  border-radius: 6px;
+  padding: 6px 0;
+  list-style: none;
+  z-index: 100;
+  border: 1px solid #333333;
+}
+
+.dropdown-menu li a {
+  padding: 10px 16px;
+  border-radius: 0;
+}
+
+.dropdown-menu li a:hover {
+  background-color: #e50914;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
